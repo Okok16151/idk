@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Castle",
+		"player1": "bf",
+		"player2": "dorklyyosh",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "For Your Safety"
+	}
+}
