@@ -1,0 +1,37 @@
+	"directory": "",
+	"defaultZoom": 0.9,
+	"layers": [
+		{
+			"onFront": false,
+			"image": "backgrounds/Sky",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "Sky",
+			"animation": "",
+			"offset": [
+				-2304,
+				-3519
+			],
+			"scale": 1
+		},
+		{
+			"onFront": false,
+			"image": "backgrounds/BG",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "Ground",
+			"animation": "",
+			"offset": [
+				-795,
+				-1760
+			],
+			"scale": 1
+		}
+	]
+}
