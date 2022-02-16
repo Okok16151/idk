@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dorkly_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dorkly down0000" x="0" y="0" width="450" height="469" frameX="0" frameY="-12" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0001" x="0" y="0" width="450" height="469" frameX="0" frameY="-12" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0002" x="450" y="0" width="432" height="476" frameX="-6" frameY="-5" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0003" x="450" y="0" width="432" height="476" frameX="-6" frameY="-5" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0004" x="882" y="0" width="425" height="480" frameX="-9" frameY="-1" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0005" x="882" y="0" width="425" height="480" frameX="-9" frameY="-1" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0006" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0007" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0008" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0009" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0010" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0011" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0012" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly down0013" x="1307" y="0" width="422" height="481" frameX="-11" frameY="0" frameWidth="450" frameHeight="481"/>
+	<SubTexture name="dorkly idle0000" x="1729" y="0" width="380" height="509"/>
+	<SubTexture name="dorkly idle0001" x="1729" y="0" width="380" height="509"/>
+	<SubTexture name="dorkly idle0002" x="2109" y="0" width="362" height="501" frameX="-1" frameY="-7" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0003" x="2109" y="0" width="362" height="501" frameX="-1" frameY="-7" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0004" x="2471" y="0" width="346" height="493" frameX="-2" frameY="-15" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0005" x="2471" y="0" width="346" height="493" frameX="-2" frameY="-15" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0006" x="2817" y="0" width="344" height="490" frameX="-2" frameY="-18" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0007" x="2817" y="0" width="344" height="490" frameX="-2" frameY="-18" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0008" x="3161" y="0" width="344" height="489" frameX="-2" frameY="-19" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0009" x="3161" y="0" width="344" height="489" frameX="-2" frameY="-19" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0010" x="3161" y="0" width="344" height="489" frameX="-2" frameY="-19" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0011" x="3161" y="0" width="344" height="489" frameX="-2" frameY="-19" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0012" x="3161" y="0" width="344" height="489" frameX="-2" frameY="-19" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly idle0013" x="3161" y="0" width="344" height="489" frameX="-2" frameY="-19" frameWidth="380" frameHeight="509"/>
+	<SubTexture name="dorkly left0000" x="3505" y="0" width="421" height="464" frameX="-3" frameY="0" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0001" x="3505" y="0" width="421" height="464" frameX="-3" frameY="0" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0002" x="0" y="509" width="422" height="453" frameX="-1" frameY="-11" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0003" x="0" y="509" width="422" height="453" frameX="-1" frameY="-11" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0004" x="422" y="509" width="423" height="450" frameX="0" frameY="-14" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0005" x="422" y="509" width="423" height="450" frameX="0" frameY="-14" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0006" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0007" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0008" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0009" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0010" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0011" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0012" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly left0013" x="845" y="509" width="423" height="448" frameX="0" frameY="-16" frameWidth="424" frameHeight="464"/>
+	<SubTexture name="dorkly right0000" x="1268" y="509" width="529" height="469" frameX="-7" frameY="0" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0001" x="1268" y="509" width="529" height="469" frameX="-7" frameY="0" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0002" x="1797" y="509" width="544" height="461" frameX="0" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0003" x="1797" y="509" width="544" height="461" frameX="0" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0004" x="2341" y="509" width="527" height="458" frameX="-11" frameY="-11" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0005" x="2341" y="509" width="527" height="458" frameX="-11" frameY="-11" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0006" x="2868" y="509" width="507" height="461" frameX="-22" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0007" x="2868" y="509" width="507" height="461" frameX="-22" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0008" x="3375" y="509" width="495" height="461" frameX="-28" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0009" x="3375" y="509" width="495" height="461" frameX="-28" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0010" x="3375" y="509" width="495" height="461" frameX="-28" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0011" x="3375" y="509" width="495" height="461" frameX="-28" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0012" x="3375" y="509" width="495" height="461" frameX="-28" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly right0013" x="3375" y="509" width="495" height="461" frameX="-28" frameY="-8" frameWidth="544" frameHeight="469"/>
+	<SubTexture name="dorkly up0000" x="0" y="978" width="464" height="549" frameX="-18" frameY="0" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0001" x="0" y="978" width="464" height="549" frameX="-18" frameY="0" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0002" x="464" y="978" width="484" height="542" frameX="-7" frameY="-7" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0003" x="464" y="978" width="484" height="542" frameX="-7" frameY="-7" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0004" x="948" y="978" width="495" height="538" frameX="-1" frameY="-11" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0005" x="948" y="978" width="495" height="538" frameX="-1" frameY="-11" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0006" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0007" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0008" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0009" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0010" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0011" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0012" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+	<SubTexture name="dorkly up0013" x="1443" y="978" width="497" height="539" frameX="0" frameY="-10" frameWidth="497" frameHeight="549"/>
+</TextureAtlas>
